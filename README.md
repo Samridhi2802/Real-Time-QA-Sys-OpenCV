@@ -1,0 +1,2 @@
+# Real-Time-Quality-Control-System-with-Object-Detection-and-Shape-Analysis-Using-YOLOv5-and-OpenCV
+This system is suitable for quality control applications in manufacturing or logistics, where it helps detect and classify products, ensuring that they meet specified shape, color, and dimensional standards. This project showcases skills in computer vision, machine learning, and real-time video processing
