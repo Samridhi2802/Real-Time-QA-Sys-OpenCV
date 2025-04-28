@@ -14,4 +14,7 @@ This code implements a **real-time quality control system** using **YOLOv5 for o
 
 This system provides a **dual-layered detection mechanism**:
    - **YOLOv5** for general object detection with high accuracy.
-   - **Connected Components Analysis** for precise shape and color-based quality inspections, enabling effective quality monitoring and control. 
+   - **Connected Components Analysis** for precise shape and color-based quality inspections, enabling effective quality monitoring and control.
+
+     
+![WhatsApp Image 2025-04-28 at 23 58 01_10e8642f](https://github.com/user-attachments/assets/01918795-7d71-4a3b-be95-40a79c88743a)
